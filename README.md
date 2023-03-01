@@ -1,5 +1,14 @@
-### Hi there 👋
+<h2 align=center>J.D. Lowe</h2>
+<h3 align=center>Frontend Developer and Game Designer</h3>
+<br />
+<p align="center">I love both web development (I have been obsessed with JavaScript since the late 90's) and game development, and want to do better constantly in both!</p>
 
+<h4 align=center>About Me</h4>
+<br />
+<p align="center">
+😄 Pronouns: He/Him
+⚡ Fun fact: I was in the Guinness Gamer's Edition 2017 for the arcade game BurgerTime, and even got a <a href="https://imgur.com/a/MXrKoDx" target="_blank">certificate</a> for it!
+</p>
 <!--
 **thejdlowe/thejdlowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
