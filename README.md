@@ -6,7 +6,7 @@
 <h4 align=center>About Me</h4>
 <br />
 <p align="center">
-😄 Pronouns: He/Him
+😄 Pronouns: He/Him<br />
 ⚡ Fun fact: I was in the Guinness Gamer's Edition 2017 for the arcade game BurgerTime, and even got a <a href="https://imgur.com/a/MXrKoDx" target="_blank">certificate</a> for it!
 </p>
 <!--
